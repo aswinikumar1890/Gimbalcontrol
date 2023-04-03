@@ -1,0 +1,17 @@
+{
+   "gain" : 120,
+   "gyroFilter" : 2,
+   "outputFilter" : 4,
+   "pan" : {
+      "holdStrength" : 40,
+      "stiffness" : 85
+   },
+   "roll" : {
+      "holdStrength" : 12,
+      "stiffness" : 14
+   },
+   "tilt" : {
+      "holdStrength" : 30,
+      "stiffness" : 12
+   }
+}

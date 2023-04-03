@@ -1,0 +1,11 @@
+{
+   "ai" : "inactive",
+   "aiChakshuDay" : "inactive",
+   "aiChakshuIR" : "inactive",
+   "cameraChakshuDay" : "inactive",
+   "cameraChakshuIR" : "inactive",
+   "cameraDay" : "inactive",
+   "gimbal" : "active",
+   "log" : "GIMBAL STATE PRESENT RUNNING",
+   "serialconn" : "active"
+}
